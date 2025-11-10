@@ -1,0 +1,7 @@
+\babel@toc {polish}{}\relax 
+\contentsline {chapter}{\numberline {1}Wprowadzenie do technologii informacyjnych}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Kluczowe obszary zastosowań technologii informacyjnych}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Etapy rozwoju technologii informacyjnych}{7}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Znaczenie technologii informacyjnych w społeczeństwie}{9}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Przyszłość technologii informacyjnych}{11}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Podsumowanie}{13}{chapter.6}%
